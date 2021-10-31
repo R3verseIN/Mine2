@@ -1,0 +1,1 @@
+sudo python ~/Documents/main2.py
