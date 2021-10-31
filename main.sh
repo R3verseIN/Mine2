@@ -5,6 +5,7 @@ cd ~/Documents/ && wget https://raw.githubusercontent.com/sanketdon/Mine/main/ma
 cd ~/Desktop/ && wget https://raw.githubusercontent.com/sanketdon/Mine/main/temp.sh && chmod +x temp.sh
 cd ~/Desktop/ && wget https://raw.githubusercontent.com/sanketdon/Mine/main/mine.sh && chmod +x mine.sh
 cd ~/Desktop/ && wget https://raw.githubusercontent.com/sanketdon/Mine/main/portmap.sh && chmod +x portmap.sh
-
+cd ~/Downloads/ && wget https://www.dwservice.net/download/dwagent_x86.sh && chmod +x dwagent_x86.sh
+sudo ~/Downloads/dwagent_x86.sh
 
 
