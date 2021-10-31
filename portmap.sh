@@ -1,1 +1,1 @@
-sudo openvpn --config ~/Documents/portmap.ovpn
+sudo openvpn --config /home/jbl/Documents/portmap.ovpn
