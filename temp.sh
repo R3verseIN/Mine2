@@ -1,1 +1,1 @@
-sudo python ~/Documents/main2.py
+sudo python /home/jbl/Documents/main2.py
