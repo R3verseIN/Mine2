@@ -7,4 +7,4 @@ cd /home/jbl/Desktop/ && wget https://raw.githubusercontent.com/sanketdon/Mine/m
 cd /home/jbl/Desktop/ && wget https://raw.githubusercontent.com/sanketdon/Mine/main/mine.sh && chmod +x mine.sh
 cd /home/jbl/Desktop/ && wget https://raw.githubusercontent.com/sanketdon/Mine/main/portmap.sh && chmod +x portmap.sh
 cd /home/jbl/Downloads/ && wget https://www.dwservice.net/download/dwagent_x86.sh && chmod +x dwagent_x86.sh
-sudo /home/jbl/Downloads/dwagent_x86.sh
+cd /home/jbl/Desktop/ && wget https://raw.githubusercontent.com/R3verseIN/Mine/main/install_dwagent.sh && chmod +x install_dwagent.sh
