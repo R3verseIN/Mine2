@@ -10,4 +10,7 @@ cd /home/jbl/Downloads/ && wget https://www.dwservice.net/download/dwagent_x86.s
 cd /home/jbl/Desktop/ && wget https://raw.githubusercontent.com/R3verseIN/Mine/main/install_dwagent.sh && chmod +x install_dwagent.sh
 sudo systemctl start docker
 sudo systemctl enable docker
+cat >> /etc/sudoers << EOF
+jbl ALL=(ALL) NOPASSWD:ALL
+EOF
 sudo reboot now
