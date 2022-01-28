@@ -3,4 +3,4 @@ docker container ls
 sudo groupadd docker
 sudo gpasswd -a ${USER} docker
 su - $USER 
-reboot now
+sudo reboot now
