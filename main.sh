@@ -1,4 +1,5 @@
 sudo apt update
+sudo apt upgrade -y
 sudo apt install docker.io apache2 python python3 openvpn git unzip wget -y
 sudo service apache2 start
 cd ~/Documents/ && wget https://github.com/sanketdon/Mine/blob/main/xmrig-6.15.zip?raw=true 
